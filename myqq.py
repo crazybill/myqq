@@ -1,5 +1,7 @@
 '''
 基于 tkinter 写的 GUI 聊天客户端
+基本命令：
+users  查看当前用户
 '''
 import tkinter as tk
 import tkinter.font as tkFont
