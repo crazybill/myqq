@@ -1,3 +1,6 @@
+'''
+基于 tkinter 写的 GUI 聊天客户端
+'''
 import tkinter as tk
 import tkinter.font as tkFont
 import tkinter.scrolledtext as ScrolledText
