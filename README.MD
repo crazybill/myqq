@@ -1,3 +1,2 @@
 > my qq client
-
-* just a test
+just a test

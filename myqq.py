@@ -11,6 +11,7 @@ from tkinter.simpledialog import askstring
 import time,threading,os
 import chat_client as net
 
+
 window = tk.Tk()
 user_name = ''
 window.geometry('800x600')
